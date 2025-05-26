@@ -1,9 +1,9 @@
 const cacheName = "naomi-Lab3-0.1";
 const contentToCache = [
     "Build/WebGLBuild.loader.js",
-    "Build/WebGLBuild.framework.js.br",
-    "Build/WebGLBuild.data.br",
-    "Build/WebGLBuild.wasm.br",
+    "Build/WebGLBuild.framework.js.unityweb",
+    "Build/WebGLBuild.data.unityweb",
+    "Build/WebGLBuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
